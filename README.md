@@ -32,8 +32,6 @@ Aqui você encontra alguns dos meus projetos aplicando BI e Análise de Dados:
 - [Copilot Python Project](https://github.com/MatheusCrisostimo/copilot-python-project)  
 - [DIO Projeto Prático](https://github.com/MatheusCrisostimo/dio-projeto-pratico/tree/main/dio-desafio-git)  
 
-*(fixe no topo os 2–3 repositórios mais relevantes do seu GitHub para recrutadores de BI)*  
-
 ---
 
 ## 🌐 Versão em Inglês [EN]  
