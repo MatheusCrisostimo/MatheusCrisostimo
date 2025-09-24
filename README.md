@@ -24,8 +24,8 @@ Atualmente, foco em projetos de **transformação digital, automação de relat�
 ## 📈 Projetos em Destaque  
 Aqui você encontra alguns dos meus projetos aplicando BI e Análise de Dados:  
 
-- 🔹 [Dashboard de Compras]([https://github.com/MatheusCrisostimo/seu-repo](https://github.com/MatheusCrisostimo/Power-BI)) → Automação de relatórios e indicadores de performance.  
-- 🔹 [Simulações em Python]([https://github.com/MatheusCrisostimo/seu-repo](https://github.com/MatheusCrisostimo/lab-natty-or-not) → Modelos de previsão e análise de custos.  
+🔹 [Dashboard de Compras]([https://github.com/MatheusCrisostimo/seu-repo](https://github.com/MatheusCrisostimo/Power-BI)) → Automação de relatórios e indicadores de performance.  
+🔹 [Simulações em Python]([https://github.com/MatheusCrisostimo/seu-repo](https://github.com/MatheusCrisostimo/lab-natty-or-not) → Modelos de previsão e análise de custos.  
 
 ### 🔗 Outros Projetos no GitHub
 - [Formação IoT Specialist](https://github.com/MatheusCrisostimo/Forma-o-IOT-Specialist)  
